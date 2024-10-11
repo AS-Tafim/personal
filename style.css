@@ -1,0 +1,75 @@
+
+
+.hi{
+  background-image: url(image/header-bg.png);
+  margin-top: 100px;
+}
+
+h3{
+  color: rgb(255, 0, 128);
+  font-weight: bolder;
+  font-family: 'Times New Roman', Times, serif;
+}
+.btn{
+
+  background-color: rgb(255, 0, 140);
+  border-radius: 8px;
+  cursor: pointer;
+  color: white;
+}
+
+.img{
+  width: 300px;
+}
+
+.biography{
+  background-image: url(image/biography-bg.png);
+}
+.bio{
+  color: black;
+}
+
+.img-2{
+  width: 300px;
+}
+
+.latest-work{
+  background-image: url(image/latest-work-bg.png);
+}
+#latest-work{
+  color: black;
+  text-align: center;
+  margin: 60px;
+}
+.md{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+.founder{
+  color: lightgray;
+  text-align: center;
+  font-size: smaller;
+}
+.box{
+  height: 100px;
+  width: 700px;
+  border: .5px solid #ec4e8d;
+  background-image:  linear-gradient(to right, #ec4e8d,#a00040) ;
+  border-radius: 6px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+  
+}
+.box-cont{
+  color: white;
+  text-align: center;
+  padding: 20 0 5 0;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+footer{
+  text-align: center;
+  color: gray;
+  background-image: url(image/footer-bg.png);
+}
